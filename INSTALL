@@ -1,0 +1,9 @@
+Building Axis
+
+See doc/readme-qt.rst for instructions on building Axis QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Axis.
+
+See doc/build-*.txt for instructions on building Axisd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Axis.
